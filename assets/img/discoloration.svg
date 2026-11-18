@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-labelledby="t">
+<title id="t">Yellow or pink discoloration: tinted patches on a white screen</title>
+<defs><clipPath id="s"><rect x="14" y="12" width="292" height="164" rx="3"/></clipPath><radialGradient id="g1"><stop offset="0" stop-color="#ffd84d" stop-opacity=".55"/><stop offset="1" stop-color="#ffd84d" stop-opacity="0"/></radialGradient>
+<radialGradient id="g2"><stop offset="0" stop-color="#ff7ab8" stop-opacity=".4"/><stop offset="1" stop-color="#ff7ab8" stop-opacity="0"/></radialGradient></defs>
+<rect x="4" y="3" width="312" height="182" rx="10" fill="#15181e"/>
+<rect x="7" y="6" width="306" height="176" rx="8" fill="#20242c"/>
+<g clip-path="url(#s)"><rect x="14" y="12" width="292" height="164" fill="#f5f6f8"/><ellipse cx="34" cy="94" rx="70" ry="80" fill="url(#g1)"/><ellipse cx="276" cy="42" rx="60" ry="45" fill="url(#g2)"/></g>
+<rect x="14" y="12" width="292" height="164" rx="3" fill="none" stroke="#000" stroke-opacity=".5"/>
+<circle cx="160" cy="179" r="1.6" fill="#4ade80"/>
+
+</svg>

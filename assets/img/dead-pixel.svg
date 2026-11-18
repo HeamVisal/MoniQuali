@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-labelledby="t">
+<title id="t">Dead pixel: a black dot on a white screen</title>
+<defs><clipPath id="s"><rect x="14" y="12" width="292" height="164" rx="3"/></clipPath></defs>
+<rect x="4" y="3" width="312" height="182" rx="10" fill="#15181e"/>
+<rect x="7" y="6" width="306" height="176" rx="8" fill="#20242c"/>
+<g clip-path="url(#s)"><rect x="14" y="12" width="292" height="164" fill="#f4f5f7"/><rect x="98" y="84" width="3" height="3" fill="#000"/></g>
+<rect x="14" y="12" width="292" height="164" rx="3" fill="none" stroke="#000" stroke-opacity=".5"/>
+<circle cx="160" cy="179" r="1.6" fill="#4ade80"/>
+<line x1="99.5" y1="85.5" x2="212.2" y2="87.8" stroke="#60a5fa" stroke-width="1.5" stroke-dasharray="3 3"/>
+<circle cx="99.5" cy="85.5" r="6" fill="none" stroke="#60a5fa" stroke-width="1.5"/>
+<circle cx="236" cy="64" r="37" fill="#0b0d11"/>
+<clipPath id="m"><circle cx="236" cy="64" r="34"/></clipPath>
+<g clip-path="url(#m)"><rect x="202" y="30" width="68" height="68" fill="#0b0d11"/><rect x="209.5" y="37.5" width="9" height="9" rx="1" fill="#f4f5f7"/><rect x="220.5" y="37.5" width="9" height="9" rx="1" fill="#f4f5f7"/><rect x="231.5" y="37.5" width="9" height="9" rx="1" fill="#f4f5f7"/><rect x="242.5" y="37.5" width="9" height="9" rx="1" fill="#f4f5f7"/><rect x="253.5" y="37.5" width="9" height="9" rx="1" fill="#f4f5f7"/><rect x="209.5" y="48.5" width="9" height="9" rx="1" fill="#f4f5f7"/><rect x="220.5" y="48.5" width="9" height="9" rx="1" fill="#f4f5f7"/><rect x="231.5" y="48.5" width="9" height="9" rx="1" fill="#f4f5f7"/><rect x="242.5" y="48.5" width="9" height="9" rx="1" fill="#f4f5f7"/><rect x="253.5" y="48.5" width="9" height="9" rx="1" fill="#f4f5f7"/><rect x="209.5" y="59.5" width="9" height="9" rx="1" fill="#f4f5f7"/><rect x="220.5" y="59.5" width="9" height="9" rx="1" fill="#f4f5f7"/><rect x="231.5" y="59.5" width="9" height="9" rx="1" fill="#000"/><rect x="242.5" y="59.5" width="9" height="9" rx="1" fill="#f4f5f7"/><rect x="253.5" y="59.5" width="9" height="9" rx="1" fill="#f4f5f7"/><rect x="209.5" y="70.5" width="9" height="9" rx="1" fill="#f4f5f7"/><rect x="220.5" y="70.5" width="9" height="9" rx="1" fill="#f4f5f7"/><rect x="231.5" y="70.5" width="9" height="9" rx="1" fill="#f4f5f7"/><rect x="242.5" y="70.5" width="9" height="9" rx="1" fill="#f4f5f7"/><rect x="253.5" y="70.5" width="9" height="9" rx="1" fill="#f4f5f7"/><rect x="209.5" y="81.5" width="9" height="9" rx="1" fill="#f4f5f7"/><rect x="220.5" y="81.5" width="9" height="9" rx="1" fill="#f4f5f7"/><rect x="231.5" y="81.5" width="9" height="9" rx="1" fill="#f4f5f7"/><rect x="242.5" y="81.5" width="9" height="9" rx="1" fill="#f4f5f7"/><rect x="253.5" y="81.5" width="9" height="9" rx="1" fill="#f4f5f7"/></g>
+<circle cx="236" cy="64" r="34" fill="none" stroke="#60a5fa" stroke-width="2.5"/>
+</svg>

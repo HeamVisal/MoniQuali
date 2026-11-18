@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-labelledby="t">
+<title id="t">Image retention: a faint ghost of a previous image on a gray screen</title>
+<defs><clipPath id="s"><rect x="14" y="12" width="292" height="164" rx="3"/></clipPath></defs>
+<rect x="4" y="3" width="312" height="182" rx="10" fill="#15181e"/>
+<rect x="7" y="6" width="306" height="176" rx="8" fill="#20242c"/>
+<g clip-path="url(#s)"><rect x="14" y="12" width="292" height="164" fill="#808080"/><g fill="none" stroke="#000" stroke-opacity=".12" stroke-width="5"><rect x="60" y="48" width="200" height="96" rx="4"/><path d="M60 68 h200"/></g><g fill="#000" fill-opacity=".1"><rect x="80" y="86" width="110" height="7"/><rect x="80" y="102" width="150" height="7"/><rect x="80" y="118" width="90" height="7"/></g></g>
+<rect x="14" y="12" width="292" height="164" rx="3" fill="none" stroke="#000" stroke-opacity=".5"/>
+<circle cx="160" cy="179" r="1.6" fill="#4ade80"/>
+
+</svg>

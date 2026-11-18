@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-labelledby="t">
+<title id="t">Backlight bleeding: fixed patches of light leaking from the edges on a black screen</title>
+<defs><clipPath id="s"><rect x="14" y="12" width="292" height="164" rx="3"/></clipPath><radialGradient id="g1" cx="0" cy="0" r="1"><stop offset="0" stop-color="#d8d2b8" stop-opacity=".75"/><stop offset="1" stop-color="#d8d2b8" stop-opacity="0"/></radialGradient>
+<linearGradient id="g2" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#cfd6e6" stop-opacity=".55"/><stop offset="1" stop-color="#cfd6e6" stop-opacity="0"/></linearGradient></defs>
+<rect x="4" y="3" width="312" height="182" rx="10" fill="#15181e"/>
+<rect x="7" y="6" width="306" height="176" rx="8" fill="#20242c"/>
+<g clip-path="url(#s)"><rect x="14" y="12" width="292" height="164" fill="#050506"/><ellipse cx="14" cy="12" rx="70" ry="38" fill="url(#g1)"/><ellipse cx="306" cy="176" rx="60" ry="34" fill="url(#g1)"/><rect x="110" y="154" width="90" height="22" fill="url(#g2)"/></g>
+<rect x="14" y="12" width="292" height="164" rx="3" fill="none" stroke="#000" stroke-opacity=".5"/>
+<circle cx="160" cy="179" r="1.6" fill="#4ade80"/>
+
+</svg>
